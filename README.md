@@ -1,5 +1,5 @@
 # Python_Project_on_Diwali_Sales_Analysis
-This Python project focuses on leveraging sales data to provide actionable insights.
+Customer Experience and Revenue Optimization through Diwali Sales Data Analysis using Exploratory  Data Analysis
 
 
 
