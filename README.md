@@ -21,4 +21,4 @@ Customer Experience and Revenue Optimization through Diwali Sales Data Analysis 
 6) The top sold products are from the Food, Clothing, and Electronics categories.
 
 💡 𝓕𝓲𝓷𝓪𝓵 𝓒𝓸𝓷𝓬𝓵𝓾𝓼𝓲𝓸𝓷:
-Married women age group 26-35 yrs from UP, Maharastra and Karnataka working in IT, Healthcare and Aviation are more likely to buy products from Food, Clothing and Electronics category
+Married women age group 26-35 yrs from UP, Maharastra and Karnataka working in IT, Healthcare and Aviation are more likely to buy products from Food, Clothing and Electronics category.
